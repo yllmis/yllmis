@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiyllmisanuraghazra&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiyllmisanuraghazra&show_icons=true&theme=radical)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yllmis&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
