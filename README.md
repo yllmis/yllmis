@@ -13,9 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ---
-![Visitor Count](https://profile-counter.glitch.me/yllmis/count.svg)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yllmis)](https://github.com/yllmis/github-readme-stats)<br>
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=yllmis&show_icons=true&theme=tokyonight)
 
 
 
