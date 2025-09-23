@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yllmis&bg_color=FFFAF0&title_color=0000CD&line=696969&point=6A5ACD)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![trophy](https://github-profile-trophy.vercel.app/?username=yllmis)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yllmis&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
