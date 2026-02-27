@@ -14,9 +14,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yllmis)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yllmis&show_icons=true&theme=radical)
+
+## 📈 GitHub Activity Graph:
+
+<table>
+  <tr>
+    <th>
+      <img alt="GitHub Stats" src="https://github-readme-stats-ins.vercel.app/api?username=yllmis&show_icons=true&theme=tokyonight&hide_border=true" align="center" />
+    </th>
+    <th>
+      <img alt="Top Langs" src="https://github-readme-stats-ins.vercel.app/api/top-langs/?username=yllmis&layout=compact&theme=city_lights&bg_color=0000&hide_border=true&langs_count=10&hide=CMake" align="center" /> 
+    </th>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yllmis&bg_color=FFFAF0&title_color=0000CD&line=696969&point=6A5ACD" alt="GitHub Activity Graph" width="100%"/>
+</div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yllmis&bg_color=FFFAF0&title_color=0000CD&line=696969&point=6A5ACD)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
