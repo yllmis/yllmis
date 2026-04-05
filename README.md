@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <th>
-      <img alt="GitHub Stats" src="https://github-readme-stats-ins.vercel.app/api?username=yllmis&show_icons=true&theme=tokyonight&hide_border=true" align="center" />
+      <img alt="GitHub Stats" src="https://github-readme-stats-ins.vercel.app/api?username=yllmis&show_icons=true&theme=tokyonight&hide_border=false" align="center" />
     </th>
     <th>
       <img alt="Top Langs" src="https://github-readme-stats-ins.vercel.app/api/top-langs/?username=yllmis&layout=compact&theme=city_lights&bg_color=0000&hide_border=true&langs_count=10&hide=CMake" align="center" /> 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </table>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yllmis&bg_color=FFFAF0&title_color=0000CD&line=696969&point=6A5ACD" alt="GitHub Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yllmis&bg_color=FFFAF0&title_color=0000CD&line=696969&point=6A5AC" alt="GitHub Activity Graph" width="100%"/>
 </div>
 
 
