@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 </table>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yllmis&bg_color=FFFAF0&title_color=0000CD&line=696969&point=6A5ACD" alt="GitHub Activity Graph" width="100%"/>
+  <!-- 贡献度热力图 -->
+  <img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yllmis&theme=2077" align="center" />
 </div>
-
 
 
 
